@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/maroon-shondhyaalok/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Maroon Shondhyaalok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maroon-shondhyaalok/) |
+| **Get License** | [Commercial Licensing for Maroon Shondhyaalok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maroon-shondhyaalok/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> মেরুন সন্ধ্যার আলোয় হারিয়েছে চেনা দিন
+> বুকের ভেতর বাজে আজ শূন্যতার এক বীণ
+> আঁধার ঘনিয়ে আসে স্মৃতির গভীর ছায়ায়
+> অচেনা এক ঘোরে মন তোমাকেই শুধু চায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
