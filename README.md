@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/maroon-shondhyaalok/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Maroon Shondhyaalok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maroon-shondhyaalok/) |
+| **Get License** | [Get a Licensing Quote for Maroon Shondhyaalok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maroon-shondhyaalok/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fce3a68e67d7b07f2f370c57dbcb46f02b6ec4e7d83018cd4f524bc011756709` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
